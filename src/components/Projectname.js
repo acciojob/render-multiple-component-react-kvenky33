@@ -3,7 +3,7 @@ import React from "react";
 const Projectname = () => {
   return (
     <div>
-      <h1>YOUTUBE CLONE</h1>
+      <h1 data-ns-test="project-name">YOUTUBE CLONE</h1>
     </div>
   );
 };
